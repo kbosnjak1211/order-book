@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kbosnjak1211/order-book/static/css/main.073c9b0a.css",
-    "main.js": "/kbosnjak1211/order-book/static/js/main.41af0a08.js",
-    "static/js/787.f0ab7e75.chunk.js": "/kbosnjak1211/order-book/static/js/787.f0ab7e75.chunk.js",
-    "static/media/logo.svg": "/kbosnjak1211/order-book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kbosnjak1211/order-book/index.html",
-    "main.073c9b0a.css.map": "/kbosnjak1211/order-book/static/css/main.073c9b0a.css.map",
-    "main.41af0a08.js.map": "/kbosnjak1211/order-book/static/js/main.41af0a08.js.map",
-    "787.f0ab7e75.chunk.js.map": "/kbosnjak1211/order-book/static/js/787.f0ab7e75.chunk.js.map"
+    "main.css": "/order-book/static/css/main.073c9b0a.css",
+    "main.js": "/order-book/static/js/main.7f30317d.js",
+    "static/js/787.f0ab7e75.chunk.js": "/order-book/static/js/787.f0ab7e75.chunk.js",
+    "static/media/logo.svg": "/order-book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/order-book/index.html",
+    "main.073c9b0a.css.map": "/order-book/static/css/main.073c9b0a.css.map",
+    "main.7f30317d.js.map": "/order-book/static/js/main.7f30317d.js.map",
+    "787.f0ab7e75.chunk.js.map": "/order-book/static/js/787.f0ab7e75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.41af0a08.js"
+    "static/js/main.7f30317d.js"
   ]
 }
